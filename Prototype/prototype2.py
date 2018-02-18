@@ -16,27 +16,27 @@ def get_info():
 def queries():
   # Groups neighbourhood name and zipcode together. Shows the number of
   # listings in each zipcode, shows the average number of bedrooms
-  q1 = """SELECT neighbourhood, 
+  q1 = """SELECT neighborhood, 
     zipcode, 
-    COUNT(neighbourhood), 
+    COUNT(neighborhood), 
     ROUND(CAST(AVG(beds) as NUMERIC), 2) AS Avg_num_bedrooms
 
-    FROM Listings 
-       GROUP BY neighbourhood, 
+    FROM Listing 
+       GROUP BY neighborhood, 
             zipcode ORDER BY 3 DESC LIMIT 10"""
 
   # Group the listings by neighbourhood and show me the number of listings
   # in each neighbourhood and zipcode and show me each average price
 
-  q2 = """SELECT Listings.neighbourhood, 
-    Summary_listings.neighbourhood AS zipcode, 
+  q2 = """SELECT Listing.neighborhood, 
+    Summary_listing.zipcode AS zipcode, 
     COUNT(*), 
-    ROUND(CAST(AVG(Summary_listings.price) as NUMERIC), 2) AS Avg_price
-    FROM Listings 
-    INNER JOIN Summary_listings
-      ON  Listings.id = Summary_listings.id
-        GROUP BY  Listings.neighbourhood, 
-                Summary_listings.neighbourhood
+    ROUND(CAST(AVG(Summary_listing.price) as NUMERIC), 2) AS Avg_price
+    FROM Listing 
+    INNER JOIN Summary_listing
+      ON  Listing.id = Summary_listing.id
+        GROUP BY  Listing.neighborhood, 
+                Summary_listing.zipcode
         ORDER BY 3 DESC LIMIT 10"""
 
   return q1, q2
@@ -50,8 +50,8 @@ def main():
   q1, q2 = queries()
 # Message
   print("You're connected!")
-  done = 'no'
-  while(done == 'no'):
+  done = 'n'
+  while(done == 'n'):
     print()
     print()
     # Show all query choices
@@ -62,10 +62,10 @@ def main():
     # Prompt user for query choice
     print()
     print()
-    choice = input('What would you like to query?')
+    choice = input('Choose query: ')
     print()
     while(choice != 'q2' and choice !='q1'):
-      choice = input('What would you like to query?')
+      choice = input('Choose query: ')
 
     if(choice == 'q1'):
       print(psql.read_sql_query(q1,con))
@@ -76,9 +76,9 @@ def main():
     print()
     print("Are you done with this session?")
     print()
-    done = input("(yes/no):")
-    while(done!= 'yes' and done!='no'):
-      done = input("(yes/no):")
+    done = input("[y / n]:")
+    while(done!= 'y' and done!='n'):
+      done = input("[y / n]:")
 
   # Print goodbye
   print()

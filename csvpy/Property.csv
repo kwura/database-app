@@ -1,0 +1,101 @@
+id,neighborhood,address,city,state,zipcode
+1,North Campus,16663 Ortiz Trail,Austin,TX,46899
+2,Downtown,98124 John Skyway,Austin,TX,19128
+3,Riverside,"PSC 1224, Box 4051",Austin,TX,49009
+4,Zilker,5643 Donald Brooks Suite 511,Austin,TX,48065
+5,Avery Ranch,90000 Barker Bypass,Austin,TX,42766
+6,Riverside,9368 Smith Mall Apt. 134,Austin,TX,59124
+7,Rainey,3693 Nguyen Road,Austin,TX,30549
+8,Barton Hills,6120 Kristen Village,Austin,TX,99717
+9,East Downtown,21221 Jonathan Green,Austin,TX,94545
+10,East Downtown,768 Wesley Knoll,Austin,TX,48299
+11,Downtown,1928 Marcus Trafficway Suite 951,Austin,TX,92586
+12,Avery Ranch,4754 Tyler Groves,Austin,TX,48196
+13,West Campus,831 Paul Spur Apt. 473,Austin,TX,32661
+14,North Campus,77766 Thomas Field Apt. 687,Austin,TX,83554
+15,Downtown,331 Lisa Ridges Suite 829,Austin,TX,76495
+16,Avery Ranch,0585 Ramirez Gardens Suite 361,Austin,TX,43403
+17,Northridge,35792 Bell Spur Suite 720,Austin,TX,64557
+18,South Congress,94986 Alexander Hollow,Austin,TX,17414
+19,Barton Hills,509 Jacqueline Terrace Suite 640,Austin,TX,60068
+20,Rainey,193 Lisa Heights Suite 562,Austin,TX,33205
+21,Rainey,14170 Kent Turnpike Suite 016,Austin,TX,40238
+22,North Campus,71145 Collier Falls Apt. 199,Austin,TX,89229
+23,Downtown,070 Stanley Villages,Austin,TX,65081
+24,West Campus,26846 Stephanie Stream,Austin,TX,66100
+25,East Downtown,0736 Brown Viaduct,Austin,TX,26942
+26,Barton Hills,0875 Morgan Overpass,Austin,TX,27458
+27,Zilker,22494 Kurt Knolls Apt. 049,Austin,TX,02522
+28,Avery Ranch,021 Hughes Burg Apt. 637,Austin,TX,49286
+29,East Downtown,05389 Montgomery Plains Suite 369,Austin,TX,47381
+30,Riverside,126 Clark Trafficway,Austin,TX,22029
+31,West Campus,"PSC 8587, Box 8676",Austin,TX,83590
+32,Riverside,USNS Nicholson,Austin,TX,58686
+33,Avery Ranch,568 Erica Fork Suite 780,Austin,TX,43407
+34,North Campus,196 Eric Vista Apt. 291,Austin,TX,04064
+35,Northridge,0367 Frederick Greens,Austin,TX,80973
+36,Rainey,"PSC 3603, Box 1532",Austin,TX,35094
+37,Riverside,154 Adrian Points,Austin,TX,89648
+38,Rainey,521 Schneider Ridges Suite 746,Austin,TX,85206
+39,Riverside,Unit 7610 Box 9494,Austin,TX,00826
+40,Rainey,9437 Ward Trail Suite 724,Austin,TX,14468
+41,Northridge,863 Bauer Curve Suite 586,Austin,TX,90508
+42,Rainey,1420 Alexander Ramp Suite 701,Austin,TX,37949
+43,Avery Ranch,14492 Stephanie Light,Austin,TX,67035
+44,Avery Ranch,94554 Hoffman Lock,Austin,TX,46572
+45,Northridge,3539 Parker Shoals,Austin,TX,98590
+46,Zilker,29907 Sanders Port,Austin,TX,02463
+47,Rainey,"PSC 8948, Box 1911",Austin,TX,36373
+48,East Downtown,684 Gillespie Parks,Austin,TX,85508
+49,West Campus,74804 Rivera Fords Suite 019,Austin,TX,49257
+50,Avery Ranch,12439 Matthew Brooks Apt. 127,Austin,TX,69548
+51,Barton Hills,597 Paula Lane Apt. 919,Austin,TX,46353
+52,East Downtown,217 Gallegos Course,Austin,TX,67205
+53,North Campus,10657 Grant Camp Suite 355,Austin,TX,61273
+54,Barton Hills,1538 David Plains Suite 722,Austin,TX,50249
+55,Downtown,8298 Craig Burgs Suite 884,Austin,TX,08530
+56,West Campus,4435 Erickson Fort Suite 835,Austin,TX,76876
+57,Zilker,8604 Duran Parks Apt. 956,Austin,TX,45557
+58,South Congress,14214 Megan Ramp Suite 981,Austin,TX,55742
+59,East Downtown,75247 Bauer Shoal,Austin,TX,41404
+60,Zilker,395 Amy Burgs,Austin,TX,44550
+61,Zilker,817 Robert Via Suite 870,Austin,TX,37260
+62,West Campus,62886 Robinson Skyway,Austin,TX,96424
+63,East Downtown,USNS Johnson,Austin,TX,77033
+64,Zilker,7526 Luke Row,Austin,TX,49014
+65,East Downtown,790 Sullivan Square,Austin,TX,27583
+66,Downtown,223 Deanna Port,Austin,TX,41151
+67,West Campus,5718 Carroll Squares,Austin,TX,03658
+68,West Campus,331 Mendez Passage,Austin,TX,17565
+69,West Campus,74697 Thomas Field Apt. 359,Austin,TX,75453
+70,Avery Ranch,531 Benjamin Village,Austin,TX,88328
+71,North Campus,7642 Peter Mission Apt. 328,Austin,TX,30213
+72,Northridge,358 Young Village Suite 299,Austin,TX,05065
+73,Avery Ranch,USS Gonzalez,Austin,TX,45890
+74,West Campus,330 Daniel Ports,Austin,TX,78546
+75,Zilker,5759 Jane Prairie,Austin,TX,30326
+76,Avery Ranch,9834 Carroll Meadow Apt. 059,Austin,TX,78145
+77,Zilker,2849 Thomas Rest,Austin,TX,09292
+78,West Campus,901 Erin Trafficway Apt. 025,Austin,TX,82373
+79,Avery Ranch,0889 Silva Fords Apt. 849,Austin,TX,84434
+80,Northridge,85665 Brandy Gardens Apt. 429,Austin,TX,04648
+81,East Downtown,294 Thompson Gateway,Austin,TX,42182
+82,North Campus,34256 Moran Stream Suite 636,Austin,TX,71982
+83,Northridge,8323 Barnett Walks Apt. 687,Austin,TX,70552
+84,Riverside,608 Kyle Lodge Suite 428,Austin,TX,99452
+85,Zilker,18831 Davis Port,Austin,TX,51886
+86,Zilker,Unit 7764 Box 6509,Austin,TX,52261
+87,East Downtown,5459 Crystal Vista,Austin,TX,25829
+88,Rainey,69977 Mccarty Dam,Austin,TX,67186
+89,West Campus,45823 Reynolds Cove,Austin,TX,71852
+90,Zilker,39411 Deleon Terrace Apt. 843,Austin,TX,53572
+91,South Congress,0484 Matthew Path Apt. 582,Austin,TX,56501
+92,Downtown,14700 Wright Estates,Austin,TX,29057
+93,West Campus,"PSC 6976, Box 0239",Austin,TX,62111
+94,Riverside,Unit 9287 Box 2368,Austin,TX,84263
+95,West Campus,707 Fisher Ridge Suite 725,Austin,TX,42539
+96,Zilker,78359 Wilson Trafficway,Austin,TX,35444
+97,Rainey,697 Massey Place Suite 513,Austin,TX,15707
+98,Rainey,51834 Wright Springs,Austin,TX,47319
+99,Barton Hills,84804 Williams Ramp,Austin,TX,30304
+100,South Congress,35461 Luke Cliff,Austin,TX,05445
